@@ -48,9 +48,17 @@ features                                  :
     description                           : Visualize the completion status of reminders using bar charts to show daily and weekly
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Local Data Privacy
+    description                           : All reminders are processed locally on the device, guaranteeing that no data leaves the device for enhanced privacy and security.
+    fontawesome_icon_name                 : user-secret
+
+  - title                                 : Energy Performance Optimization
+    description                           : Optimize widget performance to minimize battery usage, ensuring that the app runs efficiently without draining the device's power.
+    fontawesome_icon_name                 : battery-full
+
+  - title                                 : Supports Dark Mode
+    description                           : Offer full dark mode support, automatically adjusting to the device's system settings for a comfortable viewing
+    fontawesome_icon_name                 : moon
 
 
 
