@@ -37,6 +37,6 @@ This Privacy Policy explains how Tasky ("we", "us", or "our") collects, uses, an
    - We may update this Privacy Policy from time to time. Any changes will be posted within the app, and the updated policy will be effective immediately.
 
 **8. Contact Us**
-   - If you have any questions about this Privacy Policy, please contact us at [Your Contact Information].
+   - If you have any questions about this Privacy Policy, please contact us at me@sufiyanyasa.com.
 
 By using Tasky, you agree to this Privacy Policy. If you do not agree, please do not use the app.
