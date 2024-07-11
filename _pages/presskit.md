@@ -36,6 +36,10 @@ graph and bar chart widgets, which helped keep me motivated and on track.
 - [Tasky App Store link](https://apps.apple.com/us/app/todo-reminders-widget-tasky/id6502542119?itsct=apps_box_link&itscg=30200&ct=presskit)
 - [Tasky Website](https://tasky.sufiyanyasa.com)
 - [Downloadble Zip file for this Page - Tasky-Presskit.zip](/assets/presskit/Tasky-Presskit.zip)
+- [TestFlight Beta Link](https://testflight.apple.com/join/b5bYhPZH)
+
+![QR testflight](/assets/presskit/testflightqr.png)
+
 
 ## Screenshots
 
