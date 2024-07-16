@@ -6,7 +6,7 @@ permalink: /presskit/
 
 ## Tasky: Enhanced Productivity Widgets for Apple Reminders
 
-Tasky is a widget app built for Apple Reminders.
+Tasky is a widget app designed for Apple Reminders. It includes extra widgets to boost your productivity.
 
 ## Features
 * 6 Home screen widgets
