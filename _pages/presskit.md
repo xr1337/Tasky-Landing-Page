@@ -20,8 +20,10 @@ Apple Reminders productivity enthusiasts.
 
 ## Pricing
 Tasky is freemium with one free widget. Purchase options:
-- Lifetime: $5.99
+- Lifetime: $9.99
 - Yearly: $3.99
+
+Note: Appstore prices in different regiions are customized according to Apple Music Purchasing Power Index Parity
 
 ## My story
 Apple Reminders is great, but its interactive widgets often cause me to
